@@ -106,3 +106,13 @@ git push -u origin main
 
 you can see your username in this link.
 Live URL: https://username.github.io/Portfolio
+
+Exception:
+If you updated code, you can update using these commits
+
+```python
+git status
+git add .
+git commit -m "your message"
+git push
+```
